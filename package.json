@@ -1,6 +1,24 @@
 {
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "main": "posts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoSls97/express-blog-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoSls97/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/FrancescoSls97/express-blog-routing#readme",
+  "description": "",
   "dependencies": {
-    "dotenv": "^17.0.0",
     "express": "^5.1.0"
   }
 }
